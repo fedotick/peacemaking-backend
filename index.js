@@ -11,6 +11,7 @@ import commentRoute from './routes/comment.js'
 const app = express()
 dotenv.config()
 
+// fedot
 // Constants
 const PORT = process.env.PORT || 7000
 const MONGODB_URL = process.env.MONGODB_URL
