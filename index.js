@@ -13,7 +13,6 @@ dotenv.config()
 
 // Constants
 const PORT = process.env.PORT || 7000
-// MONGODB URL
 const MONGODB_URL = process.env.MONGODB_URL
 
 // Middleware
